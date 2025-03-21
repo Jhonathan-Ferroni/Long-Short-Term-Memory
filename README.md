@@ -2,6 +2,9 @@
 
 Este repositório contém um modelo de Rede Neural Recorrente (RNN) utilizando Long Short-Term Memory (LSTM) para prever preços de ações com base em séries temporais. O modelo foi treinado e testado com dados das ações do Google.
 
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PfuEpf1GiwqoCKNNx6RhhANpNFA4iMi0?usp=sharing)
+
+
 ## Tecnologias Utilizadas
 - **Python**
 - **NumPy**
